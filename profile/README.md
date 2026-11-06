@@ -22,6 +22,10 @@ https://btc.saeb.id.ir
 https://btc4-fun.github.io
 ```
 
+خدمات و شرایط استفادهٔ برند و مهر:
+
+<https://github.com/btc4-fun/.github/blob/main/profile/SERVICES.fa.md>
+
 تلگرام:
 
 ```text
